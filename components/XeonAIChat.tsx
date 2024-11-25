@@ -1,5 +1,6 @@
 "use client";
 
+import React from 'react';
 import { useEffect, useState } from "react";
 import * as webllm from "@mlc-ai/web-llm";
 import { Card, CardHeader, CardTitle, CardContent } from "@/components/ui/Card";
