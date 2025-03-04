@@ -22,6 +22,8 @@ To set up the Xeon AI marketing website with a demo locally, follow these steps:
 ## Technologies Used
 
 - Next.js
+- React
+- Typescript
 - Tailwind
 - Shadcn
 - Web-LLM
